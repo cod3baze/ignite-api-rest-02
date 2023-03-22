@@ -18,3 +18,5 @@ usada para validação de qualquer tipo de dados
   - [] O usuário só pode visualizar transação o qual ele criou;
 
 - RNF: Requisitos Não Funcionais.
+
+- Cookies: forma de manter contexto entre requisições
