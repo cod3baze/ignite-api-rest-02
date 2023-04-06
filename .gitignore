@@ -8,8 +8,9 @@ lerna-debug.log*
 .pnpm-debug.log*
 
 # addons
-db/app.db
+db/*.db
 .env.test
+build
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
